@@ -1,0 +1,896 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='2.70231in' height='2.50139in' viewBox='0 0 194.566 180.1' >
+<g partID='855889230'><g xmlns="http://www.w3.org/2000/svg" id="breadboardbreadboard">
+ <path xmlns="http://www.w3.org/2000/svg" fill-opacity="1" stroke-width="0" id="boardoutline" d="M0,0L93.6,0,93.6,86.4,0,86.4zM5.94,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0z" stroke="none" fill="#deb675"/>
+ <path xmlns="http://www.w3.org/2000/svg" stroke-width="0.576" d="M0.288,0.288L93.024,0.288,93.024,85.824,0.288,85.824z" stroke="#deb675" stroke-opacity="1" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector0pin" cx="7.2" r="1.98" connectorname="0.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector1pin" cx="14.4" r="1.98" connectorname="1.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector2pin" cx="21.6" r="1.98" connectorname="2.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector3pin" cx="28.8" r="1.98" connectorname="3.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector4pin" cx="36" r="1.98" connectorname="4.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector5pin" cx="43.2" r="1.98" connectorname="5.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector6pin" cx="50.4" r="1.98" connectorname="6.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector7pin" cx="57.6" r="1.98" connectorname="7.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector8pin" cx="64.8" r="1.98" connectorname="8.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector9pin" cx="72" r="1.98" connectorname="9.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector10pin" cx="79.2" r="1.98" connectorname="10.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector11pin" cx="86.4" r="1.98" connectorname="11.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1000pin" cx="7.2" r="1.98" connectorname="0.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1001pin" cx="14.4" r="1.98" connectorname="1.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1002pin" cx="21.6" r="1.98" connectorname="2.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1003pin" cx="28.8" r="1.98" connectorname="3.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1004pin" cx="36" r="1.98" connectorname="4.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1005pin" cx="43.2" r="1.98" connectorname="5.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1006pin" cx="50.4" r="1.98" connectorname="6.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1007pin" cx="57.6" r="1.98" connectorname="7.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1008pin" cx="64.8" r="1.98" connectorname="8.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1009pin" cx="72" r="1.98" connectorname="9.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1010pin" cx="79.2" r="1.98" connectorname="10.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1011pin" cx="86.4" r="1.98" connectorname="11.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2000pin" cx="7.2" r="1.98" connectorname="0.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2001pin" cx="14.4" r="1.98" connectorname="1.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2002pin" cx="21.6" r="1.98" connectorname="2.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2003pin" cx="28.8" r="1.98" connectorname="3.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2004pin" cx="36" r="1.98" connectorname="4.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2005pin" cx="43.2" r="1.98" connectorname="5.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2006pin" cx="50.4" r="1.98" connectorname="6.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2007pin" cx="57.6" r="1.98" connectorname="7.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2008pin" cx="64.8" r="1.98" connectorname="8.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2009pin" cx="72" r="1.98" connectorname="9.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2010pin" cx="79.2" r="1.98" connectorname="10.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2011pin" cx="86.4" r="1.98" connectorname="11.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3000pin" cx="7.2" r="1.98" connectorname="0.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3001pin" cx="14.4" r="1.98" connectorname="1.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3002pin" cx="21.6" r="1.98" connectorname="2.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3003pin" cx="28.8" r="1.98" connectorname="3.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3004pin" cx="36" r="1.98" connectorname="4.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3005pin" cx="43.2" r="1.98" connectorname="5.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3006pin" cx="50.4" r="1.98" connectorname="6.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3007pin" cx="57.6" r="1.98" connectorname="7.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3008pin" cx="64.8" r="1.98" connectorname="8.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3009pin" cx="72" r="1.98" connectorname="9.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3010pin" cx="79.2" r="1.98" connectorname="10.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3011pin" cx="86.4" r="1.98" connectorname="11.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4000pin" cx="7.2" r="1.98" connectorname="0.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4001pin" cx="14.4" r="1.98" connectorname="1.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4002pin" cx="21.6" r="1.98" connectorname="2.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4003pin" cx="28.8" r="1.98" connectorname="3.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4004pin" cx="36" r="1.98" connectorname="4.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4005pin" cx="43.2" r="1.98" connectorname="5.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4006pin" cx="50.4" r="1.98" connectorname="6.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4007pin" cx="57.6" r="1.98" connectorname="7.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4008pin" cx="64.8" r="1.98" connectorname="8.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4009pin" cx="72" r="1.98" connectorname="9.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4010pin" cx="79.2" r="1.98" connectorname="10.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4011pin" cx="86.4" r="1.98" connectorname="11.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5000pin" cx="7.2" r="1.98" connectorname="0.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5001pin" cx="14.4" r="1.98" connectorname="1.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5002pin" cx="21.6" r="1.98" connectorname="2.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5003pin" cx="28.8" r="1.98" connectorname="3.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5004pin" cx="36" r="1.98" connectorname="4.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5005pin" cx="43.2" r="1.98" connectorname="5.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5006pin" cx="50.4" r="1.98" connectorname="6.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5007pin" cx="57.6" r="1.98" connectorname="7.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5008pin" cx="64.8" r="1.98" connectorname="8.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5009pin" cx="72" r="1.98" connectorname="9.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5010pin" cx="79.2" r="1.98" connectorname="10.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5011pin" cx="86.4" r="1.98" connectorname="11.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6000pin" cx="7.2" r="1.98" connectorname="0.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6001pin" cx="14.4" r="1.98" connectorname="1.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6002pin" cx="21.6" r="1.98" connectorname="2.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6003pin" cx="28.8" r="1.98" connectorname="3.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6004pin" cx="36" r="1.98" connectorname="4.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6005pin" cx="43.2" r="1.98" connectorname="5.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6006pin" cx="50.4" r="1.98" connectorname="6.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6007pin" cx="57.6" r="1.98" connectorname="7.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6008pin" cx="64.8" r="1.98" connectorname="8.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6009pin" cx="72" r="1.98" connectorname="9.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6010pin" cx="79.2" r="1.98" connectorname="10.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6011pin" cx="86.4" r="1.98" connectorname="11.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7000pin" cx="7.2" r="1.98" connectorname="0.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7001pin" cx="14.4" r="1.98" connectorname="1.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7002pin" cx="21.6" r="1.98" connectorname="2.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7003pin" cx="28.8" r="1.98" connectorname="3.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7004pin" cx="36" r="1.98" connectorname="4.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7005pin" cx="43.2" r="1.98" connectorname="5.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7006pin" cx="50.4" r="1.98" connectorname="6.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7007pin" cx="57.6" r="1.98" connectorname="7.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7008pin" cx="64.8" r="1.98" connectorname="8.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7009pin" cx="72" r="1.98" connectorname="9.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7010pin" cx="79.2" r="1.98" connectorname="10.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7011pin" cx="86.4" r="1.98" connectorname="11.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8000pin" cx="7.2" r="1.98" connectorname="0.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8001pin" cx="14.4" r="1.98" connectorname="1.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8002pin" cx="21.6" r="1.98" connectorname="2.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8003pin" cx="28.8" r="1.98" connectorname="3.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8004pin" cx="36" r="1.98" connectorname="4.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8005pin" cx="43.2" r="1.98" connectorname="5.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8006pin" cx="50.4" r="1.98" connectorname="6.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8007pin" cx="57.6" r="1.98" connectorname="7.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8008pin" cx="64.8" r="1.98" connectorname="8.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8009pin" cx="72" r="1.98" connectorname="9.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8010pin" cx="79.2" r="1.98" connectorname="10.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8011pin" cx="86.4" r="1.98" connectorname="11.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9000pin" cx="7.2" r="1.98" connectorname="0.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9001pin" cx="14.4" r="1.98" connectorname="1.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9002pin" cx="21.6" r="1.98" connectorname="2.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9003pin" cx="28.8" r="1.98" connectorname="3.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9004pin" cx="36" r="1.98" connectorname="4.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9005pin" cx="43.2" r="1.98" connectorname="5.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9006pin" cx="50.4" r="1.98" connectorname="6.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9007pin" cx="57.6" r="1.98" connectorname="7.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9008pin" cx="64.8" r="1.98" connectorname="8.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9009pin" cx="72" r="1.98" connectorname="9.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9010pin" cx="79.2" r="1.98" connectorname="10.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9011pin" cx="86.4" r="1.98" connectorname="11.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10000pin" cx="7.2" r="1.98" connectorname="0.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10001pin" cx="14.4" r="1.98" connectorname="1.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10002pin" cx="21.6" r="1.98" connectorname="2.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10003pin" cx="28.8" r="1.98" connectorname="3.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10004pin" cx="36" r="1.98" connectorname="4.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10005pin" cx="43.2" r="1.98" connectorname="5.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10006pin" cx="50.4" r="1.98" connectorname="6.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10007pin" cx="57.6" r="1.98" connectorname="7.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10008pin" cx="64.8" r="1.98" connectorname="8.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10009pin" cx="72" r="1.98" connectorname="9.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10010pin" cx="79.2" r="1.98" connectorname="10.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10011pin" cx="86.4" r="1.98" connectorname="11.10" stroke="#c49c59" fill="none"/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+</g>
+</g><g partID='855898360'><g transform='translate(100.966,93.6985)' ><g xmlns="http://www.w3.org/2000/svg" id="breadboardbreadboard">
+ <path xmlns="http://www.w3.org/2000/svg" fill-opacity="1" stroke-width="0" id="boardoutline" d="M0,0L93.6,0,93.6,86.4,0,86.4zM5.94,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0z" stroke="none" fill="#deb675"/>
+ <path xmlns="http://www.w3.org/2000/svg" stroke-width="0.576" d="M0.288,0.288L93.024,0.288,93.024,85.824,0.288,85.824z" stroke="#deb675" stroke-opacity="1" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector0pin" cx="7.2" r="1.98" connectorname="0.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector1pin" cx="14.4" r="1.98" connectorname="1.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector2pin" cx="21.6" r="1.98" connectorname="2.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector3pin" cx="28.8" r="1.98" connectorname="3.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector4pin" cx="36" r="1.98" connectorname="4.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector5pin" cx="43.2" r="1.98" connectorname="5.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector6pin" cx="50.4" r="1.98" connectorname="6.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector7pin" cx="57.6" r="1.98" connectorname="7.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector8pin" cx="64.8" r="1.98" connectorname="8.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector9pin" cx="72" r="1.98" connectorname="9.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector10pin" cx="79.2" r="1.98" connectorname="10.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector11pin" cx="86.4" r="1.98" connectorname="11.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1000pin" cx="7.2" r="1.98" connectorname="0.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1001pin" cx="14.4" r="1.98" connectorname="1.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1002pin" cx="21.6" r="1.98" connectorname="2.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1003pin" cx="28.8" r="1.98" connectorname="3.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1004pin" cx="36" r="1.98" connectorname="4.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1005pin" cx="43.2" r="1.98" connectorname="5.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1006pin" cx="50.4" r="1.98" connectorname="6.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1007pin" cx="57.6" r="1.98" connectorname="7.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1008pin" cx="64.8" r="1.98" connectorname="8.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1009pin" cx="72" r="1.98" connectorname="9.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1010pin" cx="79.2" r="1.98" connectorname="10.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1011pin" cx="86.4" r="1.98" connectorname="11.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2000pin" cx="7.2" r="1.98" connectorname="0.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2001pin" cx="14.4" r="1.98" connectorname="1.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2002pin" cx="21.6" r="1.98" connectorname="2.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2003pin" cx="28.8" r="1.98" connectorname="3.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2004pin" cx="36" r="1.98" connectorname="4.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2005pin" cx="43.2" r="1.98" connectorname="5.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2006pin" cx="50.4" r="1.98" connectorname="6.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2007pin" cx="57.6" r="1.98" connectorname="7.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2008pin" cx="64.8" r="1.98" connectorname="8.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2009pin" cx="72" r="1.98" connectorname="9.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2010pin" cx="79.2" r="1.98" connectorname="10.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2011pin" cx="86.4" r="1.98" connectorname="11.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3000pin" cx="7.2" r="1.98" connectorname="0.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3001pin" cx="14.4" r="1.98" connectorname="1.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3002pin" cx="21.6" r="1.98" connectorname="2.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3003pin" cx="28.8" r="1.98" connectorname="3.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3004pin" cx="36" r="1.98" connectorname="4.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3005pin" cx="43.2" r="1.98" connectorname="5.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3006pin" cx="50.4" r="1.98" connectorname="6.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3007pin" cx="57.6" r="1.98" connectorname="7.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3008pin" cx="64.8" r="1.98" connectorname="8.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3009pin" cx="72" r="1.98" connectorname="9.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3010pin" cx="79.2" r="1.98" connectorname="10.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3011pin" cx="86.4" r="1.98" connectorname="11.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4000pin" cx="7.2" r="1.98" connectorname="0.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4001pin" cx="14.4" r="1.98" connectorname="1.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4002pin" cx="21.6" r="1.98" connectorname="2.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4003pin" cx="28.8" r="1.98" connectorname="3.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4004pin" cx="36" r="1.98" connectorname="4.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4005pin" cx="43.2" r="1.98" connectorname="5.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4006pin" cx="50.4" r="1.98" connectorname="6.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4007pin" cx="57.6" r="1.98" connectorname="7.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4008pin" cx="64.8" r="1.98" connectorname="8.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4009pin" cx="72" r="1.98" connectorname="9.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4010pin" cx="79.2" r="1.98" connectorname="10.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4011pin" cx="86.4" r="1.98" connectorname="11.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5000pin" cx="7.2" r="1.98" connectorname="0.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5001pin" cx="14.4" r="1.98" connectorname="1.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5002pin" cx="21.6" r="1.98" connectorname="2.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5003pin" cx="28.8" r="1.98" connectorname="3.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5004pin" cx="36" r="1.98" connectorname="4.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5005pin" cx="43.2" r="1.98" connectorname="5.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5006pin" cx="50.4" r="1.98" connectorname="6.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5007pin" cx="57.6" r="1.98" connectorname="7.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5008pin" cx="64.8" r="1.98" connectorname="8.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5009pin" cx="72" r="1.98" connectorname="9.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5010pin" cx="79.2" r="1.98" connectorname="10.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5011pin" cx="86.4" r="1.98" connectorname="11.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6000pin" cx="7.2" r="1.98" connectorname="0.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6001pin" cx="14.4" r="1.98" connectorname="1.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6002pin" cx="21.6" r="1.98" connectorname="2.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6003pin" cx="28.8" r="1.98" connectorname="3.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6004pin" cx="36" r="1.98" connectorname="4.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6005pin" cx="43.2" r="1.98" connectorname="5.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6006pin" cx="50.4" r="1.98" connectorname="6.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6007pin" cx="57.6" r="1.98" connectorname="7.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6008pin" cx="64.8" r="1.98" connectorname="8.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6009pin" cx="72" r="1.98" connectorname="9.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6010pin" cx="79.2" r="1.98" connectorname="10.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6011pin" cx="86.4" r="1.98" connectorname="11.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7000pin" cx="7.2" r="1.98" connectorname="0.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7001pin" cx="14.4" r="1.98" connectorname="1.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7002pin" cx="21.6" r="1.98" connectorname="2.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7003pin" cx="28.8" r="1.98" connectorname="3.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7004pin" cx="36" r="1.98" connectorname="4.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7005pin" cx="43.2" r="1.98" connectorname="5.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7006pin" cx="50.4" r="1.98" connectorname="6.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7007pin" cx="57.6" r="1.98" connectorname="7.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7008pin" cx="64.8" r="1.98" connectorname="8.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7009pin" cx="72" r="1.98" connectorname="9.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7010pin" cx="79.2" r="1.98" connectorname="10.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7011pin" cx="86.4" r="1.98" connectorname="11.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8000pin" cx="7.2" r="1.98" connectorname="0.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8001pin" cx="14.4" r="1.98" connectorname="1.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8002pin" cx="21.6" r="1.98" connectorname="2.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8003pin" cx="28.8" r="1.98" connectorname="3.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8004pin" cx="36" r="1.98" connectorname="4.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8005pin" cx="43.2" r="1.98" connectorname="5.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8006pin" cx="50.4" r="1.98" connectorname="6.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8007pin" cx="57.6" r="1.98" connectorname="7.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8008pin" cx="64.8" r="1.98" connectorname="8.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8009pin" cx="72" r="1.98" connectorname="9.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8010pin" cx="79.2" r="1.98" connectorname="10.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8011pin" cx="86.4" r="1.98" connectorname="11.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9000pin" cx="7.2" r="1.98" connectorname="0.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9001pin" cx="14.4" r="1.98" connectorname="1.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9002pin" cx="21.6" r="1.98" connectorname="2.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9003pin" cx="28.8" r="1.98" connectorname="3.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9004pin" cx="36" r="1.98" connectorname="4.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9005pin" cx="43.2" r="1.98" connectorname="5.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9006pin" cx="50.4" r="1.98" connectorname="6.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9007pin" cx="57.6" r="1.98" connectorname="7.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9008pin" cx="64.8" r="1.98" connectorname="8.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9009pin" cx="72" r="1.98" connectorname="9.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9010pin" cx="79.2" r="1.98" connectorname="10.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9011pin" cx="86.4" r="1.98" connectorname="11.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10000pin" cx="7.2" r="1.98" connectorname="0.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10001pin" cx="14.4" r="1.98" connectorname="1.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10002pin" cx="21.6" r="1.98" connectorname="2.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10003pin" cx="28.8" r="1.98" connectorname="3.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10004pin" cx="36" r="1.98" connectorname="4.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10005pin" cx="43.2" r="1.98" connectorname="5.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10006pin" cx="50.4" r="1.98" connectorname="6.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10007pin" cx="57.6" r="1.98" connectorname="7.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10008pin" cx="64.8" r="1.98" connectorname="8.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10009pin" cx="72" r="1.98" connectorname="9.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10010pin" cx="79.2" r="1.98" connectorname="10.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10011pin" cx="86.4" r="1.98" connectorname="11.10" stroke="#c49c59" fill="none"/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+</g>
+</g></g><g partID='855898730'><g transform='translate(0.124696,93.7004)' ><g xmlns="http://www.w3.org/2000/svg" id="breadboardbreadboard">
+ <path xmlns="http://www.w3.org/2000/svg" fill-opacity="1" stroke-width="0" id="boardoutline" d="M0,0L93.6,0,93.6,86.4,0,86.4zM5.94,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,7.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,14.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,21.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,28.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,36a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,43.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,50.4a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,57.6a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,64.8a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,72a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM5.94,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM13.14,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM20.34,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM27.54,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM34.74,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM41.94,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM49.14,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM56.34,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM63.54,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM70.74,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM77.94,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0zM85.14,79.2a1.26,1.26,0,1,0,2.52,0,1.26,1.26,0,1,0,-2.52,0z" stroke="none" fill="#deb675"/>
+ <path xmlns="http://www.w3.org/2000/svg" stroke-width="0.576" d="M0.288,0.288L93.024,0.288,93.024,85.824,0.288,85.824z" stroke="#deb675" stroke-opacity="1" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector0pin" cx="7.2" r="1.98" connectorname="0.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector1pin" cx="14.4" r="1.98" connectorname="1.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector2pin" cx="21.6" r="1.98" connectorname="2.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector3pin" cx="28.8" r="1.98" connectorname="3.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector4pin" cx="36" r="1.98" connectorname="4.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector5pin" cx="43.2" r="1.98" connectorname="5.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector6pin" cx="50.4" r="1.98" connectorname="6.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector7pin" cx="57.6" r="1.98" connectorname="7.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector8pin" cx="64.8" r="1.98" connectorname="8.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector9pin" cx="72" r="1.98" connectorname="9.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector10pin" cx="79.2" r="1.98" connectorname="10.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="7.2" stroke-width="1.44" id="connector11pin" cx="86.4" r="1.98" connectorname="11.0" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1000pin" cx="7.2" r="1.98" connectorname="0.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1001pin" cx="14.4" r="1.98" connectorname="1.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1002pin" cx="21.6" r="1.98" connectorname="2.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1003pin" cx="28.8" r="1.98" connectorname="3.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1004pin" cx="36" r="1.98" connectorname="4.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1005pin" cx="43.2" r="1.98" connectorname="5.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1006pin" cx="50.4" r="1.98" connectorname="6.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1007pin" cx="57.6" r="1.98" connectorname="7.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1008pin" cx="64.8" r="1.98" connectorname="8.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1009pin" cx="72" r="1.98" connectorname="9.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1010pin" cx="79.2" r="1.98" connectorname="10.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="14.4" stroke-width="1.44" id="connector1011pin" cx="86.4" r="1.98" connectorname="11.1" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2000pin" cx="7.2" r="1.98" connectorname="0.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2001pin" cx="14.4" r="1.98" connectorname="1.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2002pin" cx="21.6" r="1.98" connectorname="2.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2003pin" cx="28.8" r="1.98" connectorname="3.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2004pin" cx="36" r="1.98" connectorname="4.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2005pin" cx="43.2" r="1.98" connectorname="5.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2006pin" cx="50.4" r="1.98" connectorname="6.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2007pin" cx="57.6" r="1.98" connectorname="7.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2008pin" cx="64.8" r="1.98" connectorname="8.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2009pin" cx="72" r="1.98" connectorname="9.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2010pin" cx="79.2" r="1.98" connectorname="10.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="21.6" stroke-width="1.44" id="connector2011pin" cx="86.4" r="1.98" connectorname="11.2" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3000pin" cx="7.2" r="1.98" connectorname="0.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3001pin" cx="14.4" r="1.98" connectorname="1.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3002pin" cx="21.6" r="1.98" connectorname="2.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3003pin" cx="28.8" r="1.98" connectorname="3.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3004pin" cx="36" r="1.98" connectorname="4.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3005pin" cx="43.2" r="1.98" connectorname="5.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3006pin" cx="50.4" r="1.98" connectorname="6.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3007pin" cx="57.6" r="1.98" connectorname="7.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3008pin" cx="64.8" r="1.98" connectorname="8.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3009pin" cx="72" r="1.98" connectorname="9.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3010pin" cx="79.2" r="1.98" connectorname="10.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="28.8" stroke-width="1.44" id="connector3011pin" cx="86.4" r="1.98" connectorname="11.3" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4000pin" cx="7.2" r="1.98" connectorname="0.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4001pin" cx="14.4" r="1.98" connectorname="1.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4002pin" cx="21.6" r="1.98" connectorname="2.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4003pin" cx="28.8" r="1.98" connectorname="3.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4004pin" cx="36" r="1.98" connectorname="4.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4005pin" cx="43.2" r="1.98" connectorname="5.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4006pin" cx="50.4" r="1.98" connectorname="6.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4007pin" cx="57.6" r="1.98" connectorname="7.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4008pin" cx="64.8" r="1.98" connectorname="8.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4009pin" cx="72" r="1.98" connectorname="9.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4010pin" cx="79.2" r="1.98" connectorname="10.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="36" stroke-width="1.44" id="connector4011pin" cx="86.4" r="1.98" connectorname="11.4" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5000pin" cx="7.2" r="1.98" connectorname="0.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5001pin" cx="14.4" r="1.98" connectorname="1.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5002pin" cx="21.6" r="1.98" connectorname="2.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5003pin" cx="28.8" r="1.98" connectorname="3.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5004pin" cx="36" r="1.98" connectorname="4.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5005pin" cx="43.2" r="1.98" connectorname="5.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5006pin" cx="50.4" r="1.98" connectorname="6.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5007pin" cx="57.6" r="1.98" connectorname="7.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5008pin" cx="64.8" r="1.98" connectorname="8.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5009pin" cx="72" r="1.98" connectorname="9.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5010pin" cx="79.2" r="1.98" connectorname="10.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="43.2" stroke-width="1.44" id="connector5011pin" cx="86.4" r="1.98" connectorname="11.5" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6000pin" cx="7.2" r="1.98" connectorname="0.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6001pin" cx="14.4" r="1.98" connectorname="1.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6002pin" cx="21.6" r="1.98" connectorname="2.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6003pin" cx="28.8" r="1.98" connectorname="3.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6004pin" cx="36" r="1.98" connectorname="4.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6005pin" cx="43.2" r="1.98" connectorname="5.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6006pin" cx="50.4" r="1.98" connectorname="6.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6007pin" cx="57.6" r="1.98" connectorname="7.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6008pin" cx="64.8" r="1.98" connectorname="8.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6009pin" cx="72" r="1.98" connectorname="9.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6010pin" cx="79.2" r="1.98" connectorname="10.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="50.4" stroke-width="1.44" id="connector6011pin" cx="86.4" r="1.98" connectorname="11.6" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7000pin" cx="7.2" r="1.98" connectorname="0.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7001pin" cx="14.4" r="1.98" connectorname="1.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7002pin" cx="21.6" r="1.98" connectorname="2.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7003pin" cx="28.8" r="1.98" connectorname="3.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7004pin" cx="36" r="1.98" connectorname="4.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7005pin" cx="43.2" r="1.98" connectorname="5.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7006pin" cx="50.4" r="1.98" connectorname="6.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7007pin" cx="57.6" r="1.98" connectorname="7.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7008pin" cx="64.8" r="1.98" connectorname="8.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7009pin" cx="72" r="1.98" connectorname="9.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7010pin" cx="79.2" r="1.98" connectorname="10.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="57.6" stroke-width="1.44" id="connector7011pin" cx="86.4" r="1.98" connectorname="11.7" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8000pin" cx="7.2" r="1.98" connectorname="0.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8001pin" cx="14.4" r="1.98" connectorname="1.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8002pin" cx="21.6" r="1.98" connectorname="2.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8003pin" cx="28.8" r="1.98" connectorname="3.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8004pin" cx="36" r="1.98" connectorname="4.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8005pin" cx="43.2" r="1.98" connectorname="5.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8006pin" cx="50.4" r="1.98" connectorname="6.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8007pin" cx="57.6" r="1.98" connectorname="7.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8008pin" cx="64.8" r="1.98" connectorname="8.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8009pin" cx="72" r="1.98" connectorname="9.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8010pin" cx="79.2" r="1.98" connectorname="10.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="64.8" stroke-width="1.44" id="connector8011pin" cx="86.4" r="1.98" connectorname="11.8" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9000pin" cx="7.2" r="1.98" connectorname="0.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9001pin" cx="14.4" r="1.98" connectorname="1.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9002pin" cx="21.6" r="1.98" connectorname="2.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9003pin" cx="28.8" r="1.98" connectorname="3.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9004pin" cx="36" r="1.98" connectorname="4.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9005pin" cx="43.2" r="1.98" connectorname="5.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9006pin" cx="50.4" r="1.98" connectorname="6.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9007pin" cx="57.6" r="1.98" connectorname="7.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9008pin" cx="64.8" r="1.98" connectorname="8.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9009pin" cx="72" r="1.98" connectorname="9.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9010pin" cx="79.2" r="1.98" connectorname="10.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="72" stroke-width="1.44" id="connector9011pin" cx="86.4" r="1.98" connectorname="11.9" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10000pin" cx="7.2" r="1.98" connectorname="0.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10001pin" cx="14.4" r="1.98" connectorname="1.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10002pin" cx="21.6" r="1.98" connectorname="2.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10003pin" cx="28.8" r="1.98" connectorname="3.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10004pin" cx="36" r="1.98" connectorname="4.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10005pin" cx="43.2" r="1.98" connectorname="5.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10006pin" cx="50.4" r="1.98" connectorname="6.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10007pin" cx="57.6" r="1.98" connectorname="7.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10008pin" cx="64.8" r="1.98" connectorname="8.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10009pin" cx="72" r="1.98" connectorname="9.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10010pin" cx="79.2" r="1.98" connectorname="10.10" stroke="#c49c59" fill="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="79.2" stroke-width="1.44" id="connector10011pin" cx="86.4" r="1.98" connectorname="11.10" stroke="#c49c59" fill="none"/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m4.5,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m69.3,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m62.1,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,64.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m54.9,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m83.7,36 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m40.5,43.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m11.7,57.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,14.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m18.9,21.6 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m33.3,50.4 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m47.7,7.2 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m26.1,72 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+<path stroke='none' stroke-width='0' fill='#c49c59' d='m76.5,28.8 5.4,0 0,7.2 -5.4,0z m0,7.2a3.6,3.6  0,1,0 0,-7.2z  m5.4,-7.2a3.6,3.6 0,1,0 0,7.2z'/>
+</g>
+</g></g><g partID='855878050'><g transform='translate(3.63294,34.9741)' ><g id="breadboard" xmlns="http://www.w3.org/2000/svg" gorn="0.1">
+<rect width="28.8" id="middle" x="0" xmlns="http://www.w3.org/2000/svg" gorn="0.1.0" fill="#303030" y="2.16" height="19.44"/>
+<rect width="28.8" id="top" x="0" xmlns="http://www.w3.org/2000/svg" gorn="0.1.1" fill="#3D3D3D" y="2.16" height="1.7712"/>
+<rect width="28.8" id="bottom" x="0" xmlns="http://www.w3.org/2000/svg" gorn="0.1.2" fill="#000000" y="19.8288" height="1.7712"/>
+<polygon id="right" xmlns="http://www.w3.org/2000/svg" points="28.8,2.16,28.26,3.9312,28.26,19.8288,28.8,21.6" gorn="0.1.3" fill="#141414"/>
+<polygon id="left" xmlns="http://www.w3.org/2000/svg" points="0,2.16,0.54,3.9312,0.54,19.8288,0,21.6" gorn="0.1.4" fill="#1F1F1F"/>
+<polygon id="left-upper-rect" xmlns="http://www.w3.org/2000/svg" points="3.6,8.28,0.54,8.2512,0.4032,9.7776,0.4032,11.88,3.6,11.88" gorn="0.1.5" fill="#1C1C1C"/>
+<polygon id="left-lower-rect" xmlns="http://www.w3.org/2000/svg" points="0.54,15.516,3.6,15.516,3.6,11.88,0.4032,11.88,0.4032,13.9824" gorn="0.1.6" fill="#383838"/>
+<path id="slot" d="M0.4032,9.7776l0,4.1976c1.0584,-0.1224,1.8864,-1.008,1.8864,-2.1024C2.2896,10.7784,1.4688,9.9,0.4032,9.7776z" xmlns="http://www.w3.org/2000/svg" gorn="0.1.7" fill="#262626"/>
+<path id="cover" d="M0.54,3.9312L0.54,8.244c1.7136,0.324,3.0168,1.8216,3.0168,3.6288c0,1.8072,-1.296,3.312,-3.0168,3.636L0.54,15.516l3.6,0L4.14,3.9312L0.54,3.9312z" xmlns="http://www.w3.org/2000/svg" gorn="0.1.8" fill="#303030"/>
+<circle cy="16.8984" r="1.4832" cx="4.68" xmlns="http://www.w3.org/2000/svg" fill="#212121"/>
+<text font-size="5.76" id="label" x="4.68" text-anchor="start" xmlns="http://www.w3.org/2000/svg" stroke="none" font-family="OCRA" gorn="0.1.10" fill="#e6e6e6" y="11.88">ATt85</text>
+<rect width="2.16" id="connector0pin" x="2.52" xmlns="http://www.w3.org/2000/svg" gorn="0.1.11" fill="#8C8C8C" y="20.6352" height="3.1248"/>
+<g width="2.16" id="connector0terminal" x="2.52" xmlns="http://www.w3.org/2000/svg" gorn="0.1.12" fill="#8C8C8C" y="21.6" height="2.16"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="2.52,20.6352,2.52,22.0752,4.68,22.0752,6.12,21.4128,6.12,20.6352" fill="#8C8C8C"/>
+<rect width="2.16" id="connector7pin" x="2.52" xmlns="http://www.w3.org/2000/svg" gorn="0.1.14" fill="#8C8C8C" height="3.1248"/>
+<g width="2.16" id="connector7terminal" x="2.52" xmlns="http://www.w3.org/2000/svg" gorn="0.1.15" fill="#8C8C8C" height="2.16"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="6.12,3.1248,6.12,2.3472,4.68,1.6848,2.52,1.6848,2.52,3.1248" fill="#8C8C8C"/>
+<rect width="2.16" id="connector3pin" x="24.12" xmlns="http://www.w3.org/2000/svg" gorn="0.1.17" fill="#8C8C8C" y="20.6352" height="3.1248"/>
+<g width="2.16" id="connector3terminal" x="24.12" xmlns="http://www.w3.org/2000/svg" gorn="0.1.18" fill="#8C8C8C" y="21.6" height="2.16"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="22.68,20.6352,22.68,21.4128,24.12,22.0752,26.28,22.0752,26.28,20.6352" fill="#8C8C8C"/>
+<rect width="2.16" id="connector4pin" x="24.12" xmlns="http://www.w3.org/2000/svg" gorn="0.1.20" fill="#8C8C8C" y="0" height="3.1248"/>
+<g width="2.16" id="connector4terminal" x="24.12" xmlns="http://www.w3.org/2000/svg" gorn="0.1.21" fill="#8C8C8C" y="0" height="2.16"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="26.28,3.1248,26.28,1.6848,24.12,1.6848,22.68,2.3472,22.68,3.1248" fill="#8C8C8C"/>
+<rect width="2.16" id="connector6pin" x="9.72" xmlns="http://www.w3.org/2000/svg" gorn="0.1.23" fill="#8C8C8C" y="0" height="3.1248"/>
+<g width="2.16" id="connector6terminal" x="9.72" xmlns="http://www.w3.org/2000/svg" gorn="0.1.24" fill="#8C8C8C" height="2.16"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="13.32,3.1248,13.32,2.3472,11.88,1.6848,9.72,1.6848,8.28,2.3472,8.28,3.1248" fill="#8C8C8C"/>
+<rect width="2.16" id="connector5pin" x="16.92" xmlns="http://www.w3.org/2000/svg" gorn="0.1.26" fill="#8C8C8C" y="0" height="3.1248"/>
+<g width="2.16" id="connector5terminal" x="16.92" xmlns="http://www.w3.org/2000/svg" gorn="0.1.27" fill="#8C8C8C" height="2.16"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="20.52,3.1248,20.52,2.3472,19.08,1.6848,16.92,1.6848,15.48,2.3472,15.48,3.1248" fill="#8C8C8C"/>
+<rect width="2.16" id="connector1pin" x="9.72" xmlns="http://www.w3.org/2000/svg" gorn="0.1.29" fill="#8C8C8C" y="20.6352" height="3.1248"/>
+<g width="2.16" id="connector1terminal" x="9.72" xmlns="http://www.w3.org/2000/svg" gorn="0.1.30" fill="#8C8C8C" y="21.6" height="2.16"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="8.28,20.6352,8.28,21.4128,9.72,22.0752,11.88,22.0752,13.32,21.4128,13.32,20.6352" fill="#8C8C8C"/>
+<rect width="2.16" id="connector2pin" x="16.92" xmlns="http://www.w3.org/2000/svg" gorn="0.1.32" fill="#8C8C8C" y="20.6352" height="3.1248"/>
+<g width="2.16" id="connector2terminal" x="16.92" xmlns="http://www.w3.org/2000/svg" gorn="0.1.33" fill="#8C8C8C" y="21.6" height="2.16"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="15.48,20.6352,15.48,21.4128,16.92,22.0752,19.08,22.0752,20.52,21.4128,20.52,20.6352" fill="#8C8C8C"/>
+</g>
+</g></g><g partID='855878420'><g transform='translate(6.26259,10.7419)' ><g xmlns="http://www.w3.org/2000/svg" id="breadboard">
+ <polygon xmlns="http://www.w3.org/2000/svg" id="wefwf" points="0,2.369,23.615,2.369,23.615,4.757,0,4.757" fill="#8C8C8C"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_8_" d="M4.46929,7.111c-0.789462,0,-0.811419,-0.271,-0.811419,-0.625L3.65788,2.669c-0.00199611,-0.349,0.257498,-0.63,1.04696,-0.63l14.365,0c0.797447,0,1.06093,0.283,1.06093,0.645L20.1308,6.49c0.00598834,0.354,-0.270473,0.622,-1.06093,0.622L4.46929,7.111L4.46929,7.111z" fill="#474747"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_7_" d="M4.46929,6.021c-0.789462,0,-0.811419,-0.281,-0.811419,-0.624L3.65788,0.641c-0.000998056,-0.345,0.258496,-0.625,1.04796,-0.625l14.364,0c0.799443,0,1.06093,0.283,1.06093,0.624l0,4.756c0.00598834,0.344,-0.270473,0.622,-1.06093,0.622L4.46929,6.021L4.46929,6.021z" fill="#666666"/>
+ <g xmlns="http://www.w3.org/2000/svg">
+  <ellipse xmlns="http://www.w3.org/2000/svg" cy="3.011" ry="0.487" cx="5.35657" rx="0.644744"/>
+  <ellipse xmlns="http://www.w3.org/2000/svg" cy="3.011" ry="0.487" cx="18.3812" rx="0.643746"/>
+ </g>
+ <path xmlns="http://www.w3.org/2000/svg" stroke-width="0.399222" id="path21_10_" d="M16.6556,1.765l0,2.881c0.00199611,0.256,-0.257498,0.572,-0.842359,0.572L7.9575,5.218c-0.586857,0,-0.829384,-0.314,-0.831381,-0.572L7.12612,1.765" stroke="#333333" fill="none"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_6_" d="M8.11419,5.085c-0.592845,0,-0.830383,-0.211,-0.833377,-0.479L7.28082,1.633c0,-0.254,0.193623,-0.468,0.78048,-0.468l7.66307,0c0.590849,0,0.783474,0.229,0.78547,0.479l0,2.977C16.5158,4.892,16.2543,5.1,15.6655,5.1L8.11419,5.085L8.11419,5.085z" fill="#C4C4C4"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_5_" d="M8.11419,4.251c-0.592845,0,-0.830383,-0.21,-0.833377,-0.479L7.28082,1.014c0,-0.255,0.193623,-0.464,0.78048,-0.464l7.66307,0c0.590849,0,0.783474,0.209,0.78547,0.464l0,2.768c0.00399222,0.271,-0.255502,0.479,-0.844355,0.479L8.11419,4.251L8.11419,4.251z" fill="#EDEDED"/>
+</g>
+</g></g><g partID='855878690'><g transform='translate(63.8626,10.7815)' ><g xmlns="http://www.w3.org/2000/svg" id="breadboard">
+ <polygon xmlns="http://www.w3.org/2000/svg" id="wefwf" points="0,2.369,23.615,2.369,23.615,4.757,0,4.757" fill="#8C8C8C"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_8_" d="M4.46929,7.111c-0.789462,0,-0.811419,-0.271,-0.811419,-0.625L3.65788,2.669c-0.00199611,-0.349,0.257498,-0.63,1.04696,-0.63l14.365,0c0.797447,0,1.06093,0.283,1.06093,0.645L20.1308,6.49c0.00598834,0.354,-0.270473,0.622,-1.06093,0.622L4.46929,7.111L4.46929,7.111z" fill="#474747"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_7_" d="M4.46929,6.021c-0.789462,0,-0.811419,-0.281,-0.811419,-0.624L3.65788,0.641c-0.000998056,-0.345,0.258496,-0.625,1.04796,-0.625l14.364,0c0.799443,0,1.06093,0.283,1.06093,0.624l0,4.756c0.00598834,0.344,-0.270473,0.622,-1.06093,0.622L4.46929,6.021L4.46929,6.021z" fill="#666666"/>
+ <g xmlns="http://www.w3.org/2000/svg">
+  <ellipse xmlns="http://www.w3.org/2000/svg" cy="3.011" ry="0.487" cx="5.35657" rx="0.644744"/>
+  <ellipse xmlns="http://www.w3.org/2000/svg" cy="3.011" ry="0.487" cx="18.3812" rx="0.643746"/>
+ </g>
+ <path xmlns="http://www.w3.org/2000/svg" stroke-width="0.399222" id="path21_10_" d="M16.6556,1.765l0,2.881c0.00199611,0.256,-0.257498,0.572,-0.842359,0.572L7.9575,5.218c-0.586857,0,-0.829384,-0.314,-0.831381,-0.572L7.12612,1.765" stroke="#333333" fill="none"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_6_" d="M8.11419,5.085c-0.592845,0,-0.830383,-0.211,-0.833377,-0.479L7.28082,1.633c0,-0.254,0.193623,-0.468,0.78048,-0.468l7.66307,0c0.590849,0,0.783474,0.229,0.78547,0.479l0,2.977C16.5158,4.892,16.2543,5.1,15.6655,5.1L8.11419,5.085L8.11419,5.085z" fill="#C4C4C4"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_5_" d="M8.11419,4.251c-0.592845,0,-0.830383,-0.21,-0.833377,-0.479L7.28082,1.014c0,-0.255,0.193623,-0.464,0.78048,-0.464l7.66307,0c0.590849,0,0.783474,0.209,0.78547,0.464l0,2.768c0.00399222,0.271,-0.255502,0.479,-0.844355,0.479L8.11419,4.251L8.11419,4.251z" fill="#EDEDED"/>
+</g>
+</g></g><g partID='855878880'><g transform='translate(63.8061,68.4454)' ><g xmlns="http://www.w3.org/2000/svg" id="breadboard">
+ <polygon xmlns="http://www.w3.org/2000/svg" id="wefwf" points="0,2.369,23.615,2.369,23.615,4.757,0,4.757" fill="#8C8C8C"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_8_" d="M4.46929,7.111c-0.789462,0,-0.811419,-0.271,-0.811419,-0.625L3.65788,2.669c-0.00199611,-0.349,0.257498,-0.63,1.04696,-0.63l14.365,0c0.797447,0,1.06093,0.283,1.06093,0.645L20.1308,6.49c0.00598834,0.354,-0.270473,0.622,-1.06093,0.622L4.46929,7.111L4.46929,7.111z" fill="#474747"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_7_" d="M4.46929,6.021c-0.789462,0,-0.811419,-0.281,-0.811419,-0.624L3.65788,0.641c-0.000998056,-0.345,0.258496,-0.625,1.04796,-0.625l14.364,0c0.799443,0,1.06093,0.283,1.06093,0.624l0,4.756c0.00598834,0.344,-0.270473,0.622,-1.06093,0.622L4.46929,6.021L4.46929,6.021z" fill="#666666"/>
+ <g xmlns="http://www.w3.org/2000/svg">
+  <ellipse xmlns="http://www.w3.org/2000/svg" cy="3.011" ry="0.487" cx="5.35657" rx="0.644744"/>
+  <ellipse xmlns="http://www.w3.org/2000/svg" cy="3.011" ry="0.487" cx="18.3812" rx="0.643746"/>
+ </g>
+ <path xmlns="http://www.w3.org/2000/svg" stroke-width="0.399222" id="path21_10_" d="M16.6556,1.765l0,2.881c0.00199611,0.256,-0.257498,0.572,-0.842359,0.572L7.9575,5.218c-0.586857,0,-0.829384,-0.314,-0.831381,-0.572L7.12612,1.765" stroke="#333333" fill="none"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_6_" d="M8.11419,5.085c-0.592845,0,-0.830383,-0.211,-0.833377,-0.479L7.28082,1.633c0,-0.254,0.193623,-0.468,0.78048,-0.468l7.66307,0c0.590849,0,0.783474,0.229,0.78547,0.479l0,2.977C16.5158,4.892,16.2543,5.1,15.6655,5.1L8.11419,5.085L8.11419,5.085z" fill="#C4C4C4"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_5_" d="M8.11419,4.251c-0.592845,0,-0.830383,-0.21,-0.833377,-0.479L7.28082,1.014c0,-0.255,0.193623,-0.464,0.78048,-0.464l7.66307,0c0.590849,0,0.783474,0.209,0.78547,0.464l0,2.768c0.00399222,0.271,-0.255502,0.479,-0.844355,0.479L8.11419,4.251L8.11419,4.251z" fill="#EDEDED"/>
+</g>
+</g></g><g partID='855878990'><g transform='translate(6.26259,68.7184)' ><g xmlns="http://www.w3.org/2000/svg" id="breadboard">
+ <polygon xmlns="http://www.w3.org/2000/svg" id="wefwf" points="0,2.369,23.615,2.369,23.615,4.757,0,4.757" fill="#8C8C8C"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_8_" d="M4.46929,7.111c-0.789462,0,-0.811419,-0.271,-0.811419,-0.625L3.65788,2.669c-0.00199611,-0.349,0.257498,-0.63,1.04696,-0.63l14.365,0c0.797447,0,1.06093,0.283,1.06093,0.645L20.1308,6.49c0.00598834,0.354,-0.270473,0.622,-1.06093,0.622L4.46929,7.111L4.46929,7.111z" fill="#474747"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_7_" d="M4.46929,6.021c-0.789462,0,-0.811419,-0.281,-0.811419,-0.624L3.65788,0.641c-0.000998056,-0.345,0.258496,-0.625,1.04796,-0.625l14.364,0c0.799443,0,1.06093,0.283,1.06093,0.624l0,4.756c0.00598834,0.344,-0.270473,0.622,-1.06093,0.622L4.46929,6.021L4.46929,6.021z" fill="#666666"/>
+ <g xmlns="http://www.w3.org/2000/svg">
+  <ellipse xmlns="http://www.w3.org/2000/svg" cy="3.011" ry="0.487" cx="5.35657" rx="0.644744"/>
+  <ellipse xmlns="http://www.w3.org/2000/svg" cy="3.011" ry="0.487" cx="18.3812" rx="0.643746"/>
+ </g>
+ <path xmlns="http://www.w3.org/2000/svg" stroke-width="0.399222" id="path21_10_" d="M16.6556,1.765l0,2.881c0.00199611,0.256,-0.257498,0.572,-0.842359,0.572L7.9575,5.218c-0.586857,0,-0.829384,-0.314,-0.831381,-0.572L7.12612,1.765" stroke="#333333" fill="none"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_6_" d="M8.11419,5.085c-0.592845,0,-0.830383,-0.211,-0.833377,-0.479L7.28082,1.633c0,-0.254,0.193623,-0.468,0.78048,-0.468l7.66307,0c0.590849,0,0.783474,0.229,0.78547,0.479l0,2.977C16.5158,4.892,16.2543,5.1,15.6655,5.1L8.11419,5.085L8.11419,5.085z" fill="#C4C4C4"/>
+ <path xmlns="http://www.w3.org/2000/svg" id="path21_5_" d="M8.11419,4.251c-0.592845,0,-0.830383,-0.21,-0.833377,-0.479L7.28082,1.014c0,-0.255,0.193623,-0.464,0.78048,-0.464l7.66307,0c0.590849,0,0.783474,0.209,0.78547,0.464l0,2.768c0.00399222,0.271,-0.255502,0.479,-0.844355,0.479L8.11419,4.251L8.11419,4.251z" fill="#EDEDED"/>
+</g>
+</g></g><g partID='855882480'><g transform='translate(32.4894,10.2729)' ><g id="breadboard" xmlns="http://www.w3.org/2000/svg">
+<polygon xmlns="http://www.w3.org/2000/svg" points="1.56321,0,0,1.56321,0,5.63578,1.56321,7.2,5.63578,7.2,7.2,5.63578,7.2,1.56321,5.63578,0,1.56321,0" fill="#404040"/>
+<rect width="2.79138" id="connector0pin" x="2.2043" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.2043" height="2.79138"/>
+<g width="2.1643" id="connector0terminal" x="2.51834" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.46934" height="2.26231"/>
+<rect width="2.29832" x="2.45133" xmlns="http://www.w3.org/2000/svg" fill="#8D8C8C" y="2.45133" height="2.29832"/>
+<rect width="1.18216" x="3.00941" xmlns="http://www.w3.org/2000/svg" fill="#8C8663" y="3.00941" height="1.18216"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="2.45133,2.45133,3.00941,3.00941,4.19058,3.00941,4.74965,2.45133" fill="#B8AF82"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="4.19058,4.19058,4.19058,3.00941,4.74965,2.45133,4.74965,4.74965" fill="#80795B"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="3.00941,4.19058,4.19058,4.19058,4.74965,4.74965,2.45133,4.74965" fill="#5E5B43"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="2.45133,2.45133,3.00941,3.00941,3.00941,4.19058,2.45133,4.74965" fill="#9A916C"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="8.76319,0,7.2,1.56321,7.2,5.63578,8.76319,7.2,12.8358,7.2,14.4,5.63578,14.4,1.56321,12.8358,0,8.76319,0" fill="#404040"/>
+<rect width="2.79138" id="connector1pin" x="9.40428" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.2043" height="2.79138"/>
+<g width="2.1643" id="connector1terminal" x="9.71834" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.46934" height="2.26231"/>
+<rect width="2.29832" x="9.65131" xmlns="http://www.w3.org/2000/svg" fill="#8D8C8C" y="2.45133" height="2.29832"/>
+<rect width="1.18216" x="10.2094" xmlns="http://www.w3.org/2000/svg" fill="#8C8663" y="3.00941" height="1.18216"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="9.65131,2.45133,10.2094,3.00941,11.3906,3.00941,11.9496,2.45133" fill="#B8AF82"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="11.3906,4.19058,11.3906,3.00941,11.9496,2.45133,11.9496,4.74965" fill="#80795B"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="10.2094,4.19058,11.3906,4.19058,11.9496,4.74965,9.65131,4.74965" fill="#5E5B43"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="9.65131,2.45133,10.2094,3.00941,10.2094,4.19058,9.65131,4.74965" fill="#9A916C"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="15.9632,0,14.4,1.56321,14.4,5.63578,15.9632,7.2,20.0358,7.2,21.6,5.63578,21.6,1.56321,20.0358,0,15.9632,0" fill="#404040"/>
+<rect width="2.79138" id="connector2pin" x="16.6043" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.2043" height="2.79138"/>
+<g width="2.1643" id="connector2terminal" x="16.9183" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.46934" height="2.26231"/>
+<rect width="2.29832" x="16.8513" xmlns="http://www.w3.org/2000/svg" fill="#8D8C8C" y="2.45133" height="2.29832"/>
+<rect width="1.18216" x="17.4094" xmlns="http://www.w3.org/2000/svg" fill="#8C8663" y="3.00941" height="1.18216"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="16.8513,2.45133,17.4094,3.00941,18.5906,3.00941,19.1496,2.45133" fill="#B8AF82"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="18.5906,4.19058,18.5906,3.00941,19.1496,2.45133,19.1496,4.74965" fill="#80795B"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="17.4094,4.19058,18.5906,4.19058,19.1496,4.74965,16.8513,4.74965" fill="#5E5B43"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="16.8513,2.45133,17.4094,3.00941,17.4094,4.19058,16.8513,4.74965" fill="#9A916C"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="23.1632,0,21.6,1.56321,21.6,5.63578,23.1632,7.2,27.2358,7.2,28.8,5.63578,28.8,1.56321,27.2358,0,23.1632,0" fill="#404040"/>
+<rect width="2.79138" id="connector3pin" x="23.8043" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.2043" height="2.79138"/>
+<g width="2.1643" id="connector3terminal" x="24.1183" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.46934" height="2.26231"/>
+<rect width="2.29832" x="24.0513" xmlns="http://www.w3.org/2000/svg" fill="#8D8C8C" y="2.45133" height="2.29832"/>
+<rect width="1.18216" x="24.6094" xmlns="http://www.w3.org/2000/svg" fill="#8C8663" y="3.00941" height="1.18216"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="24.0513,2.45133,24.6094,3.00941,25.7906,3.00941,26.3496,2.45133" fill="#B8AF82"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="25.7906,4.19058,25.7906,3.00941,26.3496,2.45133,26.3496,4.74965" fill="#80795B"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="24.6094,4.19058,25.7906,4.19058,26.3496,4.74965,24.0513,4.74965" fill="#5E5B43"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="24.0513,2.45133,24.6094,3.00941,24.6094,4.19058,24.0513,4.74965" fill="#9A916C"/>
+</g>
+</g></g><g partID='855892090'><g transform='translate(32.64,68.4)' ><g id="breadboard" xmlns="http://www.w3.org/2000/svg">
+<polygon xmlns="http://www.w3.org/2000/svg" points="1.56321,0,0,1.56321,0,5.63578,1.56321,7.2,5.63578,7.2,7.2,5.63578,7.2,1.56321,5.63578,0,1.56321,0" fill="#404040"/>
+<rect width="2.79138" id="connector0pin" x="2.2043" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.2043" height="2.79138"/>
+<g width="2.1643" id="connector0terminal" x="2.51834" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.46934" height="2.26231"/>
+<rect width="2.29832" x="2.45133" xmlns="http://www.w3.org/2000/svg" fill="#8D8C8C" y="2.45133" height="2.29832"/>
+<rect width="1.18216" x="3.00941" xmlns="http://www.w3.org/2000/svg" fill="#8C8663" y="3.00941" height="1.18216"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="2.45133,2.45133,3.00941,3.00941,4.19058,3.00941,4.74965,2.45133" fill="#B8AF82"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="4.19058,4.19058,4.19058,3.00941,4.74965,2.45133,4.74965,4.74965" fill="#80795B"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="3.00941,4.19058,4.19058,4.19058,4.74965,4.74965,2.45133,4.74965" fill="#5E5B43"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="2.45133,2.45133,3.00941,3.00941,3.00941,4.19058,2.45133,4.74965" fill="#9A916C"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="8.76319,0,7.2,1.56321,7.2,5.63578,8.76319,7.2,12.8358,7.2,14.4,5.63578,14.4,1.56321,12.8358,0,8.76319,0" fill="#404040"/>
+<rect width="2.79138" id="connector1pin" x="9.40428" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.2043" height="2.79138"/>
+<g width="2.1643" id="connector1terminal" x="9.71834" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.46934" height="2.26231"/>
+<rect width="2.29832" x="9.65131" xmlns="http://www.w3.org/2000/svg" fill="#8D8C8C" y="2.45133" height="2.29832"/>
+<rect width="1.18216" x="10.2094" xmlns="http://www.w3.org/2000/svg" fill="#8C8663" y="3.00941" height="1.18216"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="9.65131,2.45133,10.2094,3.00941,11.3906,3.00941,11.9496,2.45133" fill="#B8AF82"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="11.3906,4.19058,11.3906,3.00941,11.9496,2.45133,11.9496,4.74965" fill="#80795B"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="10.2094,4.19058,11.3906,4.19058,11.9496,4.74965,9.65131,4.74965" fill="#5E5B43"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="9.65131,2.45133,10.2094,3.00941,10.2094,4.19058,9.65131,4.74965" fill="#9A916C"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="15.9632,0,14.4,1.56321,14.4,5.63578,15.9632,7.2,20.0358,7.2,21.6,5.63578,21.6,1.56321,20.0358,0,15.9632,0" fill="#404040"/>
+<rect width="2.79138" id="connector2pin" x="16.6043" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.2043" height="2.79138"/>
+<g width="2.1643" id="connector2terminal" x="16.9183" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.46934" height="2.26231"/>
+<rect width="2.29832" x="16.8513" xmlns="http://www.w3.org/2000/svg" fill="#8D8C8C" y="2.45133" height="2.29832"/>
+<rect width="1.18216" x="17.4094" xmlns="http://www.w3.org/2000/svg" fill="#8C8663" y="3.00941" height="1.18216"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="16.8513,2.45133,17.4094,3.00941,18.5906,3.00941,19.1496,2.45133" fill="#B8AF82"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="18.5906,4.19058,18.5906,3.00941,19.1496,2.45133,19.1496,4.74965" fill="#80795B"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="17.4094,4.19058,18.5906,4.19058,19.1496,4.74965,16.8513,4.74965" fill="#5E5B43"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="16.8513,2.45133,17.4094,3.00941,17.4094,4.19058,16.8513,4.74965" fill="#9A916C"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="23.1632,0,21.6,1.56321,21.6,5.63578,23.1632,7.2,27.2358,7.2,28.8,5.63578,28.8,1.56321,27.2358,0,23.1632,0" fill="#404040"/>
+<rect width="2.79138" id="connector3pin" x="23.8043" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.2043" height="2.79138"/>
+<g width="2.1643" id="connector3terminal" x="24.1183" xmlns="http://www.w3.org/2000/svg" fill="none" y="2.46934" height="2.26231"/>
+<rect width="2.29832" x="24.0513" xmlns="http://www.w3.org/2000/svg" fill="#8D8C8C" y="2.45133" height="2.29832"/>
+<rect width="1.18216" x="24.6094" xmlns="http://www.w3.org/2000/svg" fill="#8C8663" y="3.00941" height="1.18216"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="24.0513,2.45133,24.6094,3.00941,25.7906,3.00941,26.3496,2.45133" fill="#B8AF82"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="25.7906,4.19058,25.7906,3.00941,26.3496,2.45133,26.3496,4.74965" fill="#80795B"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="24.6094,4.19058,25.7906,4.19058,26.3496,4.74965,24.0513,4.74965" fill="#5E5B43"/>
+<polygon xmlns="http://www.w3.org/2000/svg" points="24.0513,2.45133,24.6094,3.00941,24.6094,4.19058,24.0513,4.74965" fill="#9A916C"/>
+</g>
+</g></g><path stroke='#8c8c8c' stroke-width='2.16' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M35.9142,43.7577L36,43.2' />
+<path stroke='#8c8c8c' stroke-width='2.16' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M43.1308,43.7577L43.2,43.2' />
+<g partID='855897490'><g transform='translate(32.739,25.8823)' ><g xmlns="http://www.w3.org/2000/svg" id="breadboard">
+ <rect xmlns="http://www.w3.org/2000/svg" width="2.16" id="connector0pin" x="2.10168" fill="none" y="10.6747" height="0.72"/>
+ <rect xmlns="http://www.w3.org/2000/svg" width="2.16" id="connector1pin" x="9.30168" fill="none" y="10.6747" height="0.72"/>
+ <g xmlns="http://www.w3.org/2000/svg" x1="4.41" stroke-width="2.16" id="connector0leg" y1="24.827" stroke="#8C8C8C" y2="44.827" fill="none" stroke-linecap="round" x2="4.41"/>
+ <g xmlns="http://www.w3.org/2000/svg" x1="14.433" stroke-width="2.16" id="connector1leg" y1="24.827" stroke="#8C8C8C" y2="44.827" fill="none" stroke-linecap="round" x2="14.433"/>
+ <g xmlns="http://www.w3.org/2000/svg">
+  <path xmlns="http://www.w3.org/2000/svg" d="M2.8944,13.446C2.37024,12.9334,2.1492,12.3444,2.16,12.0456c0.01584,-0.954,0.144,-1.71432,0.97488,-2.56536c1.08,-1.08,2.06928,-2.07,2.06928,-2.07L3.67704,5.88312c-0.00288,0.00144,-0.99072,0.99,-2.07072,2.06928c-1.33128,1.30824,-1.62216,2.88864,-1.6056,4.09392c0.01296,1.08288,0.53784,2.09088,1.36584,2.92752c0.0792,0.05184,0.3528,0.558,0.49392,1.1448c0.15552,0.58968,0.24264,1.27728,0.2412,1.7568l0,0l2.16,0l0,0c-0.00144,-0.7092,-0.10872,-1.5228,-0.31248,-2.30472C3.7296,14.7881,3.47616,14.0544,2.8944,13.446z" fill="#8C8C8C"/>
+  <path xmlns="http://www.w3.org/2000/svg" d="M11.9542,7.95096c-1.08072,-1.08,-2.06928,-2.07072,-2.06928,-2.07072l-1.52784,1.52856c0.00144,0.00144,0.99,0.99,2.06928,2.06928c0.82872,0.85248,0.95904,1.6128,0.97488,2.5668c0.01152,0.29952,-0.21024,0.88704,-0.7344,1.39968c-0.5832,0.60984,-0.8352,1.3428,-1.0548,2.124c-0.20304,0.78048,-0.31104,1.5948,-0.31392,2.30472l0.0036,0l0,0l2.16,0l0,0l-0.00072,0c-0.00144,-0.4788,0.0864,-1.16712,0.24192,-1.7568c0.1404,-0.58536,0.41184,-1.09224,0.4932,-1.14408c0.82872,-0.8388,1.35432,-1.84752,1.36512,-2.92752C13.5778,10.8403,13.2854,9.25992,11.9542,7.95096z" fill="#8C8C8C"/>
+  <path xmlns="http://www.w3.org/2000/svg" d="M12.7663,8.62992c-0.50328,-0.61632,-1.18512,-1.47528,-1.18512,-2.82456L11.5812,1.71C11.5812,0.50976,10.9541,0,10.0663,0c-1.24488,0,-1.62,0.43488,-2.97,0.43488L6.46632,0.43488C5.11632,0.43488,4.7412,0,3.49632,0C2.60856,0,1.98144,0.50976,1.98144,1.71l0,4.09536c0,1.34928,-0.72072,2.11608,-1.18512,2.7648c-0.40464,0.56232,-0.72,1.3752,-0.72,1.78056c1.00512,-0.43488,1.8,-0.18,2.38464,0.40464c0.81,-1.21536,2.25,-2.32992,3.51,-2.32992l1.62,0c1.26,0,2.7,1.11528,3.51,2.32992c0.58464,-0.58464,1.3788,-0.83952,2.38464,-0.40464C13.4863,9.94536,13.3294,9.31968,12.7663,8.62992z" fill="#165696"/>
+  <path xmlns="http://www.w3.org/2000/svg" opacity="0.16" d="M13.4863,10.35c0,-0.40464,-0.15984,-1.03104,-0.72,-1.7208c-0.50328,-0.61632,-1.18512,-1.47528,-1.18512,-2.82456L11.5812,1.71c0,-0.62712,-0.17352,-1.06128,-0.4644,-1.33488c-0.00216,0.02016,-0.01512,0.04176,-0.01512,0.0648c0,0.20232,0.15912,0.38232,0.20232,0.60768c0.05328,0.26856,-0.06768,0.72,-0.27,1.10232c-0.20232,0.38232,-0.72,1.19232,-0.72,1.91232c0,0.83016,0.15768,1.59768,0.38232,2.13768c0.21384,0.51264,0.60768,1.17,1.14768,1.68768c0.54,0.51768,0.72,1.14768,0.76464,1.39536c0.04464,0.24768,-0.11016,0.42768,-0.42768,0.58464c-0.31536,0.15696,-0.8784,0.11232,-1.12464,0.02232c-0.24912,-0.09,-0.81,-0.58464,-1.05984,-0.9c-0.24768,-0.31536,-0.51768,-0.85536,-0.9,-1.30464c-0.36,-0.42336,-1.17,-1.01016,-2.25,-1.01016S4.7088,7.41528,4.1688,7.95528s-0.92232,1.23984,-1.12464,1.44c-0.20232,0.20232,-0.47232,0.42984,-0.74232,0.47232c-0.27,0.04464,-0.54,-0.09,-0.76464,-0.09c-0.18576,0,-0.3564,0.10296,-0.5508,0.36216c0.58752,-0.01656,1.08,0.22104,1.47456,0.6156c0.81,-1.21536,2.25,-2.32992,3.51,-2.32992l1.62,0c1.26,0,2.7,1.11528,3.51,2.32992C11.6863,10.17,12.4805,9.91584,13.4863,10.35z"/>
+  <path xmlns="http://www.w3.org/2000/svg" opacity="0.3" d="M4.05216,1.44432c0,0.37008,-0.53136,0.75384,-0.75456,0.75384c-0.40464,0,-0.64656,-0.41256,-0.64656,-0.82152c0,-0.40464,0.3276,-0.73512,0.73512,-0.73512C3.7908,0.64224,4.05216,1.03896,4.05216,1.44432z" fill="#FFFFFF"/>
+  <path xmlns="http://www.w3.org/2000/svg" opacity="0.2" d="M0.91728,9.31968c0,-0.19512,0.05976,-0.43488,0.19512,-0.61488c0.18576,-0.24768,0.5904,-0.64512,0.77976,-0.91512c0.21024,-0.29952,0.28512,-0.56952,0.33048,-0.82512C2.2608,6.7572,2.41128,6.51456,2.56752,6.51456s0.30024,0.24984,0.30024,0.49536c0,0.24552,-0.072,0.55512,-0.25488,0.85536c-0.19512,0.31536,-0.52488,0.59976,-0.76464,0.79488c-0.24336,0.19656,-0.40608,0.43416,-0.46584,0.58464c-0.03888,0.10008,-0.13536,0.23976,-0.28512,0.23976C0.93384,9.48456,0.91728,9.4068,0.91728,9.31968z" fill="#FFFFFF"/>
+  <path xmlns="http://www.w3.org/2000/svg" opacity="0.2" d="M8.71704,0.90504c0,-0.31968,0.31536,-0.46512,0.56952,-0.49536c0.38952,-0.04464,0.69048,-0.09,0.96048,-0.09s0.47952,0.05256,0.47952,0.21024c0,0.15768,-0.25776,0.19512,-0.49536,0.19512s-0.62928,0.08208,-0.80928,0.14976c-0.18,0.06984,-0.25488,0.30024,-0.43488,0.30024C8.82216,1.17504,8.71704,1.0548,8.71704,0.90504z" fill="#FFFFFF"/>
+ </g>
+</g>
+</g></g><g partID='855892110'><line stroke-linecap='round' stroke='#1b5bb3' x1='43.2' y1='64.8' x2='28.8' y2='64.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#418dd9' x1='43.2' y1='64.8' x2='28.8' y2='64.8' stroke-width='1.6' /></g><g partID='855892180'><line stroke-linecap='round' stroke='#666666' x1='50.4' y1='43.2' x2='28.8' y2='28.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#999999' x1='50.4' y1='43.2' x2='28.8' y2='28.8' stroke-width='1.6' /></g><g partID='855892250'><line stroke-linecap='round' stroke='#666666' x1='57.6' y1='21.6' x2='14.4' y2='21.6' stroke-width='3.2' /><line stroke-linecap='round' stroke='#999999' x1='57.6' y1='21.6' x2='14.4' y2='21.6' stroke-width='1.6' /></g><g partID='855893680'><line stroke-linecap='round' stroke='#1b5bb3' x1='43.2' y1='7.2' x2='28.8' y2='7.2' stroke-width='3.2' /><line stroke-linecap='round' stroke='#418dd9' x1='43.2' y1='7.2' x2='28.8' y2='7.2' stroke-width='1.6' /></g><g partID='855893790'><line stroke-linecap='round' stroke='#1b5bb3' x1='86.4' y1='50.4' x2='43.2' y2='50.4' stroke-width='3.2' /><line stroke-linecap='round' stroke='#418dd9' x1='86.4' y1='50.4' x2='43.2' y2='50.4' stroke-width='1.6' /></g><g partID='855894210'><line stroke-linecap='round' stroke='#8c0000' x1='28.8' y1='24.96' x2='7.2' y2='28.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='28.8' y1='24.96' x2='7.2' y2='28.8' stroke-width='1.6' /></g><g partID='855894020'><line stroke-linecap='round' stroke='#8c0000' x1='36' y1='28.8' x2='28.8' y2='24.96' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='36' y1='28.8' x2='28.8' y2='24.96' stroke-width='1.6' /></g><g partID='855895270'><line stroke-linecap='round' stroke='#d6d63a' x1='21.6' y1='7.2' x2='7.2' y2='7.2' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='21.6' y1='7.2' x2='7.2' y2='7.2' stroke-width='1.6' /></g><g partID='855895380'><line stroke-linecap='round' stroke='#d6d63a' x1='40' y1='57.6' x2='64.8' y2='57.6' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='40' y1='57.6' x2='64.8' y2='57.6' stroke-width='1.6' /></g><g partID='855895350'><line stroke-linecap='round' stroke='#d6d63a' x1='21.6' y1='64.8' x2='40' y2='57.6' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='21.6' y1='64.8' x2='40' y2='57.6' stroke-width='1.6' /></g><g partID='855895400'><line stroke-linecap='round' stroke='#d6d63a' x1='64.8' y1='79.2' x2='14.4' y2='79.2' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='64.8' y1='79.2' x2='14.4' y2='79.2' stroke-width='1.6' /></g></svg>
